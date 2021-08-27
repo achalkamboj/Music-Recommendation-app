@@ -1,2 +1,2 @@
 # Music-Recommendation-app
-Created with CodeSandbox
+That lists my favourite music in three different genres.
