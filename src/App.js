@@ -32,7 +32,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>My Favourite Music</h1>
-      <h3>Click on th genre to check them out!</h3>
+      <h3>Click on the genre to check them out!</h3>
 
       <div>
         {Object.keys(musicDB).map((lang) => (
